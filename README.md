@@ -7,4 +7,4 @@
 
 
 
-https://github.com/LarisaM16/database.sql/blob/af079d62041e9082a90c5c42be69be03dfcceba8/table_relationaship.sql.mwb
+https://github.com/LarisaM16/database.sql/blob/2d0bb75ad0a4eff4050e246f41ad72265425af7e/tables_relationaship.sql.mwb
